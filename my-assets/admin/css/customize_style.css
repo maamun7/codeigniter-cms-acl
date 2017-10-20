@@ -1,0 +1,6 @@
+.error{color:#ff0000;}
+.icon-trash,.icon-ok,.icon-edit,.icon-remove-sign{cursor:pointer;}
+.popUpSelection{float:left;width:45%;color:#368EE0;margin-bottom:20px;}
+.popUpSelection span{color:#368EE0; cursor:pointer;}
+.popUpSelection span:hover{color:#04377A;text-decoration:underline;}
+.popUpSelectionHead{width:100%;height:20px;border-bottom:1px solid #ccc;font-weight:bold;color:#111;}

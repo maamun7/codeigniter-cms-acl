@@ -1,0 +1,12 @@
+[
+	{
+		"image": "<?php echo base_url(); ?>uploads/home_slider/thumb_img/8obb5-1387692293.jpg",
+		"thumb": "<?php echo base_url(); ?>uploads/home_slider/thumb_img/8vlin-1387602340.jpg",
+		"folder": "thumb_img"
+	},
+	{
+		"image": "<?php echo base_url(); ?>uploads/home_slider/orginal_img/8obb5-1387692293.jpg",
+		"thumb": "<?php echo base_url(); ?>uploads/home_slider/orginal_img/8vlin-1387602340.jpg",
+		"folder": "orginal_img"
+	}
+]
